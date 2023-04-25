@@ -1,5 +1,21 @@
 # CW3D Dapp Boilerplate For Netlify
 
+This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
+
+## Resources
+Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
+
+-   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
+-   [GitHub](https://github.com/alchemyplatform/create-web3-dapp) - look at the extensive code example or start contributing
+-   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
+-   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
+-   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
+-   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
+-   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
+-   [Live Deployed Boilerplate](https://alchemy-cw3d-dapp-boilerplate.netlify.app/) - Live deployment of this boilerplate on Netlify
+
 ## Overview
 
 This project serves as a boilerplate for creating decentralized applications (dApps) using [Create Web3 Dapp](https://github.com/alchemyplatform/create-web3-dapp). It is preconfigured to be deployed on [Netlify](https://www.netlify.com/), providing you with a seamless way to get your dApp up and running in no time.
@@ -108,14 +124,3 @@ The boilerplate project is a Next.js application with the following structure:
 ```
 
 Start editing the `pages/index.jsx` file to customize the project according to your own needs!
-
-## Resources
-Please refer to CW3D's documentation and the following links for an in depth explanation of how to work with projects bootstrapped with CW3D:
-
--   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
--   [GitHub](https://github.com/alchemyplatform/create-web3-dapp) - look at the extensive code example or start contributing
--   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
--   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
--   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
--   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
--   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
